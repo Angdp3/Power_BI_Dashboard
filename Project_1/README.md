@@ -1,6 +1,10 @@
 # ☕ Coffee Shop Sales Dashboard (Power BI Project)
 
 Sebuah proyek analisis berbasis data transaksi penjualan toko kopi. Fokus utama proyek ini adalah **mengidentifikasi pola penjualan, memahami performa produk, dan mengevaluasi efektivitas lokasi toko** untuk mendukung pengambilan keputusan bisnis.
+Proyek ini menggunakan dataset transaksi fiktif dari coffee shop yang disediakan oleh Maven Analytics. Tujuannya adalah mengubah data mentah menjadi visualisasi interaktif yang memberikan insight bisnis terkait performa penjualan berdasarkan lokasi toko, kategori produk, dan waktu.
+
+##PREVIEW 'CoffeeDashboard.GIF'
+
 
 ---
 
