@@ -4,7 +4,7 @@
  [Read More](https://github.com/Angdp3/Power_BI_Dashboard/tree/main/Project_1)
 
 ## PROJECT #2
-📊 Churn Dashboard
+📊 Customer Risk Dashboard
 [Read More](https://github.com/Angdp3/Power_BI_Dashboard/tree/main/Project_2)
 
 ## PROJECT #3
